@@ -6,7 +6,7 @@ I'm Jenish maru, a passionate Software Engineer with a knack for building scalab
 - 🌱 I’m learning more about cloud computing and serverless architectures
 - 👯 I’m looking to collaborate on open-source projects and innovative startups
 - 💬 Ask me about JavaScript, React, Node.js, and Python
-- 📫 How to reach me: janedoe@example.com or [LinkedIn](https://www.linkedin.com/in/jenish-maru/)
+- 📫 How to reach me: jenishmaru2002@gmail.com or [LinkedIn](https://www.linkedin.com/in/jenish-maru/)
 - ⚡ Fun fact: I love solving puzzles and regularly participate in escape rooms.
 
 ### Tech Stack:
