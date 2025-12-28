@@ -15,6 +15,6 @@ I'm Jenish maru, a passionate Software Engineer with a knack for building scalab
 - 🛠️ Tools: Docker, Kubernetes, AWS
 
 Check out my work:
-- [Personal Portfolio](https://portfolio-website-ruby-chi.vercel.app/)
+- [Personal Portfolio](https://jenish-maru.vercel.app/)
 
 Let's connect! [LinkedIn](https://www.linkedin.com/in/jenish-maru/) 
